@@ -1,0 +1,10 @@
+ALTER TABLE prosecutor
+ADD age int;
+ALTER TABLE prosecutor
+ADD sex VARCHAR(255);
+ALTER TABLE prosecutor
+ADD birthday DATE;
+ALTER TABLE prosecutor
+ADD experience int;
+ALTER TABLE prosecutor
+ADD ID_number int;
